@@ -1,4 +1,6 @@
 AWS Sample Application
 ================
 
-Example: Deployed AWS App
+Example of Deployed AWS App </br>
+
+View yourself: http://hasime.us-west-2.elasticbeanstalk.com/
