@@ -1,4 +1,4 @@
-image-of-the-day
+AWS Sample Application
 ================
 
-Example application for beanstalk deployment blog
+Example: Deployed AWS App
