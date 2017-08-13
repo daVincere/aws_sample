@@ -1,4 +1,6 @@
-image-of-the-day
+AWS Sample Application
 ================
 
-Example application for beanstalk deployment blog
+Example of Deployed AWS App </br>
+
+View yourself: http://hasime.us-west-2.elasticbeanstalk.com/
