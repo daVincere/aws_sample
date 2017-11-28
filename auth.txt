@@ -1,0 +1,3 @@
+superuser: iotd
+superuser password: iotd@108
+
